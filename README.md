@@ -30,3 +30,13 @@ Within each of these folders there are folders of images such as: `dress`, `hat`
  * `$ git clone https://github.com/MRLintern/Image-Classifier.git && cd Image-Classifier`
  * `$ jupyter notebook`. Starting from the top, run each cell at a time.
 
+---
+
+### License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+---
+
+### Author
+
+Tejas Jain
